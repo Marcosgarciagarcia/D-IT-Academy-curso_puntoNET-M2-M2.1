@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/S5x95LPzJLMXQgaXbcMakGRMBmja+z1nYtcuQC/g1xINo/2yDCpyhZk1/7oFw9en1NQylCu8k6iv6/7Q3jqg==",
+  "success": true,
+  "projectFilePath": "D:\\IT Academy curso_puntoNET\\M2\\M2.1\\Ejercicio_M2.1_C#\\Ejercicio_M2.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\socra\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\socra\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
